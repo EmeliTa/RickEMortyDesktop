@@ -1,0 +1,8 @@
+.BackgroundScreen {
+    background-image:"https://i.pinimg.com/originals/eb/56/53/eb5653737d91f4bf2cbe57a11afdb113.jpg";
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
